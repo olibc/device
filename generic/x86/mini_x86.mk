@@ -18,7 +18,3 @@ PRODUCT_NAME := mini_x86
 PRODUCT_DEVICE := x86
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := Mini for x86
-
-# default is nosdcard, S/W button enabled in resource
-DEVICE_PACKAGE_OVERLAYS := device/generic/x86/overlay
-PRODUCT_CHARACTERISTICS := nosdcard

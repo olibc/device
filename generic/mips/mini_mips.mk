@@ -18,7 +18,3 @@ PRODUCT_NAME := mini_mips
 PRODUCT_DEVICE := mips
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := Mini for mips
-
-# default is nosdcard, S/W button enabled in resource
-DEVICE_PACKAGE_OVERLAYS := device/generic/mips/overlay
-PRODUCT_CHARACTERISTICS := nosdcard

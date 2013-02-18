@@ -18,7 +18,3 @@ PRODUCT_NAME := mini_armv7a
 PRODUCT_DEVICE := armv7-a
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := Mini for armv7-a
-
-# default is nosdcard, S/W button enabled in resource
-DEVICE_PACKAGE_OVERLAYS := device/generic/armv7-a/overlay
-PRODUCT_CHARACTERISTICS := nosdcard
